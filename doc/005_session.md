@@ -30,10 +30,10 @@ FCS起動後、Sessionデータへアクセスするため
 |   L   | Scene             | アニメーション出力時のデフォルト出力先  |
 |   L   | SetData             | アニメーション出力で「audio」を選択した場合にはwavファイルが、「Frame」「Landmark Frame」を選択した場合は連番画像が作成され、保存される    |
 | FCS |       | 解析に使用するデータが保存されるプロジェクトフォルダ            |
-|   L   | Assets           | Actorで作成したフォルダ。Actorで入力した名前が表記される   |
-|   L   | RecData             | Characterで作成したフォルダ。Characterで入力した名前が表記される |
-|   L   | Scene             | 作成したProfileの編集データ（画像や数値情報）が保存される  |
-|   L   | SetData             | 解析する動画のキャッシュが保存される |
+|   L   | Actor           | Actorで作成したフォルダ。Actorで入力した名前が表記される   |
+|   L   | Character             | Characterで作成したフォルダ。Characterで入力した名前が表記される |
+|   L   | RetargetData             | 作成したProfileの編集データ（画像や数値情報）が保存される  |
+|   L   | VideoData             | 解析する動画のキャッシュが保存される |
 |   L   | .lock      | 競合を防ぐためのロックファイル。起動時/終了時に自動で作成/消去される               |
 |   L   | fcs_session.yaml      | Session情報を保存しているファイル             |
 
