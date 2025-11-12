@@ -43,7 +43,7 @@ Videosウィンドウに解析したい動画が表示されます。
 
 #### Timelineの画面説明
 
-```{figure} images/P019.jpg
+```{figure} images/FCSMenu_Timeline006.png
 :width: 80%
 :align: center
 ```
@@ -53,9 +53,6 @@ Videosウィンドウに解析したい動画が表示されます。
 - |< >|：1フレーム前/後に移動する
 - << >>：登録したprofileにジャンプする
 - ＞ ||：動画の再生 - 停止（再生すると一時停止ボタンが表示される）
-- 1:2▼：表示する動画の解像度を変更する（Scaleが小さくなるほどプレビューが鮮明に、大きくなるほど荒くなる）
-- Sync：☑ でTimeline操作状況をMayaのTimeSliderと一致させる
-- EveryFrame/Realtime：再生速度を変更する
 - Video：Video playerに表示されている動画名
 
 #### Editorの画面説明
