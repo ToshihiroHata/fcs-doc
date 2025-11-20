@@ -281,3 +281,7 @@ controller info登録時の順番に戻ります。
 :width: 80%
 :align: center
 ```
+
+
+### 操作性向上に関する変更
+
