@@ -284,4 +284,16 @@ controller info登録時の順番に戻ります。
 
 
 ### 操作性向上に関する変更
+Mayaでコントローラーを選択して「Add selected」を実行した例です。
+```{figure} images/Controller_Addselected_01.png
+:width: 80%
+:align: center
+```
 
+選択したコントローラーが「Controller」に自動で追加され、チェックも自動的に入った状態になります。
+同様に別の部位を選択して「Add selected」した例が下図です。こちらも自動的にチェックが入ります。
+このように、連続して登録する際に、選択したコントローラーが自動で反映されるよう改善しました。
+```{figure} images/Controller_Addselected_02.png
+:width: 80%
+:align: center
+```
